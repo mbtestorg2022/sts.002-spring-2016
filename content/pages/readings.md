@@ -90,13 +90,13 @@ Credit and Credibility in Britain's "Financial Revolution"
 {{< tdopen >}}
 
 
-Houghton, John. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Selections on Stocks (1694)." (PDF)]({{< baseurl >}}/resources/mitsts_002s16_houghton) In _Collection for the Improvement of Husbandry and Trade_, vol. I. Edited by Richard Bradley (1727): 261–76.
+Houghton, John. ["Selections on Stocks (1694)." (PDF)]({{< baseurl >}}/resources/mitsts_002s16_houghton) In _Collection for the Improvement of Husbandry and Trade_, vol. I. Edited by Richard Bradley (1727): 261–76.
 
 North, Douglass C., and Barry R. Weingast. "[Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England](http://dx.doi.org/10.1017/S0022050700009451)." _The Journal of Economic History_ 49, no. 4 (1989): 803–32.
 
 ### Suggested
 
-Davenant, Charles. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Concerning Credit, and the Means by Which It May Be Restored." (PDF)]({{< baseurl >}}/resources/mitsts_002s16_davenant) In _Discourses on the Publick Revenues, and on Trade_ (1698) in _The Political and Commercial Works_. Edited by Charles Whitworth (1771): 150–67.
+Davenant, Charles. ["Concerning Credit, and the Means by Which It May Be Restored." (PDF)]({{< baseurl >}}/resources/mitsts_002s16_davenant) In _Discourses on the Publick Revenues, and on Trade_ (1698) in _The Political and Commercial Works_. Edited by Charles Whitworth (1771): 150–67.
 
 
 {{< tdclose >}}
@@ -116,7 +116,7 @@ First Crashes: The Bubbles of 1720
 {{< tdopen >}}
 
 
-Swift, Jonathan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Bubble: A Poem_ (PDF)]({{< baseurl >}}/resources/mitsts_002s16_swiftbubble). (1721).
+Swift, Jonathan. [_The Bubble: A Poem_ (PDF)]({{< baseurl >}}/resources/mitsts_002s16_swiftbubble). (1721).
 
 Trenchard, John, and Thomas Gordon. [_Cato's Letters or Essays on Liberty, Civil and Religious, and Other Important Subjects_](http://oll.libertyfund.org/titles/trenchard-catos-letters-vol-1-november-5-1720-to-june-17-1721-lf-ed). Edited by Ronald Hamowy. Liberty Fund, 1995, pp. 40–63. ISBN: 9780865971295.
 
@@ -152,7 +152,7 @@ Baning, Lance. "[James Madison to Thomas Jefferson, on Speculative Excess](http:
 
 Logan, George. [_Five letters, Addressed to the Yeomanry of the United States: Containing Some Observations on the Dangerous Scheme of Governor Duer and Mr. Secretary Hamilton, to Establish National Manufactories_](http://quod.lib.umich.edu/e/evans/N18829.0001.001/1:2?rgn=div1;view=fulltext). Gale, 2012. ISBN: 9781275691390. (Letters I-III & V)
 
-Sylla, Richard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Hamilton and the Federalist Financial Revolution, 1789–1795." (PDF)](http://www.alexanderhamiltonexhibition.org/about/Sylla%20-%20Federals%20Revolution.pdf) _The New York Journal of American History_ 65, no. 3 (2004): 32–39.
+Sylla, Richard. ["Hamilton and the Federalist Financial Revolution, 1789–1795." (PDF)](http://www.alexanderhamiltonexhibition.org/about/Sylla%20-%20Federals%20Revolution.pdf) _The New York Journal of American History_ 65, no. 3 (2004): 32–39.
 
 
 {{< tdclose >}}
@@ -172,7 +172,7 @@ Capitalizing on Lives in the 19th Century, Free and Unfree
 {{< tdopen >}}
 
 
-Garrison, William Lloyd. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Insurance." _Liberator_, February 1850.
+Garrison, William Lloyd. "Insurance." _Liberator_, February 1850.
 
 Nott, Josiah. "Life Insurance at the South." In _The Commercial Review of the South and West. A Monthly Journal of Trade, Commerce, Commercial Polity, Agriculture, Manufactures, Internal Improvements, and General Literature_. Edited by J. D. B. and De Bow. Office of the Commercial Review, 1847, pp. 357–64. \[Preview with [Google Books](http://books.google.com/books?id=U5sRAAAAYAAJ&pg=PA357=onepage)\]
 
@@ -216,7 +216,7 @@ Financial Empires and Global Crises in the Late 19th Century
 
 "[Panic in Wall Street](https://archive.org/stream/harpersnew48various#page/126/mode/2up)." _Harper's New Monthly Magazine_ 48, no. 283 (1874): 126–34.
 
-Lawson, W. R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Gaucho Banking." (PDF)]({{< baseurl >}}/resources/mitsts_002s16_lawson) _The Bankers'_ 51 (1891): 33–52.
+Lawson, W. R. ["Gaucho Banking." (PDF)]({{< baseurl >}}/resources/mitsts_002s16_lawson) _The Bankers'_ 51 (1891): 33–52.
 
 
 {{< tdclose >}}
